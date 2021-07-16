@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "rn_chp5_style_practice",
+    "slug": "rn_chp5_style_practice",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "rn_chp5_style_practice"
+}
